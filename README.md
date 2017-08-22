@@ -3,6 +3,8 @@ Computer Laboratoty - Lab 01
 myname is Pongsakorn laon
 Edited by Github Text Editor
 
+(notepad)
+
 135_Kamonchanok
 148_jaruwan
 147_Jarukan
